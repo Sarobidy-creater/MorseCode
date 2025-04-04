@@ -1,0 +1,13 @@
+../Core/Src/main.c:55:6:MX_TIM1_Init	2
+../Core/Src/main.c:71:6:Timer_Wait	2
+../Core/Src/main.c:78:6:buzzerOn	1
+../Core/Src/main.c:82:6:buzzerOff	1
+../Core/Src/main.c:86:6:playDot	1
+../Core/Src/main.c:93:6:playDash	1
+../Core/Src/main.c:100:6:playMorseChar	13
+../Core/Src/main.c:125:6:convertirEtJouerMorse	2
+../Core/Src/main.c:133:6:initBuzzer	1
+../Core/Src/main.c:146:5:main	2
+../Core/Src/main.c:166:6:SystemClock_Config	1
+../Core/Src/main.c:170:13:MX_GPIO_Init	1
+../Core/Src/main.c:184:6:Error_Handler	1

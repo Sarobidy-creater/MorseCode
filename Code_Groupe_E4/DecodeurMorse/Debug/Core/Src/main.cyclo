@@ -1,0 +1,8 @@
+../Core/Src/main.c:39:5:main	17
+../Core/Src/main.c:153:5:recherche_morse	4
+../Core/Src/main.c:168:6:MX_ADC1_Init	1
+../Core/Src/main.c:189:6:MX_TIM2_Init	1
+../Core/Src/main.c:201:6:MX_USART2_UART_Init	1
+../Core/Src/main.c:214:6:UART_SendString	1
+../Core/Src/main.c:219:6:SystemClock_Config	1
+../Core/Src/main.c:244:13:MX_GPIO_Init	1
